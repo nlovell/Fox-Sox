@@ -1,14 +1,14 @@
 # Fox Sox
 Have you ever wished your Minecraft Foxes had better footwear? Do you think your orange fluffy friends need to stay warm in the virtual world of Minecraft? Are you a degenerate who wants to see cuboid canidae with colourful [Programming Socks](https://i.kym-cdn.com/photos/images/newsfeed/001/584/957/ea7.png)?
 
-![alt text](banner.png "Lots of foxes, all wearing soxes. Cute.")
+![A banner of foxes, all wearing soxes. If you can read this, it means the image didn't load. But trust me. It's cute.](banner.png "Lots of foxes, all wearing soxes. Cute.")
 
-Well, this vanilla-style texture addon does exactly what it says on the tin - it adds Soxes to your Foxes.
-
-Version: 0.1.4
-Author: Alan Lovell
-Source: nlovell.dev/Fox-Sox
-
+Well, this vanilla-style texture addon does exactly what it says on the tin - it adds Soxes to your Foxes.  
+  
+Version: 0.1.4  
+Author: Alan Lovell  
+Source: nlovell.dev/Fox-Sox 
+  
 Compatible with every version of Minecraft that has foxes, so far.
 Tested on 1.14.2
 
@@ -39,12 +39,12 @@ There's a bunch of fun sock designs in this addon pack.
 
 ## Q and A
 
-`What do the version numbers mean?`
+`What do the version numbers mean?`  
 Not a lot. Probably me being picky about stuff, or adding new socks.
 
- `Why didn't you cover their toe beans?`
+ `Why didn't you cover their toe beans?`  
  Jesus christ I'm not putting that much effort into what ammounts to a visual shitpost.
  
- `Okay but seriously their feets look cold :(`
+ `Okay but seriously their feets look cold :(`  
  Yeah, but they need to have their claws out to be able to murder zombies and stuff. Grip. Efficiency. I don't know?
  If you want to fix it, submit a pull request on the Github page.
