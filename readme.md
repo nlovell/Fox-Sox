@@ -2,6 +2,10 @@
 It does exactly what it does on the tin - it adds Soxes to your Foxes.
 Compatible with every version that has foxes, so far.
 
+Version: 0.1
+Author: Alan Lovell
+Source: nlovell.dev/Fox-Sox
+
 ## How to use
 
 Download this repository as a .zip (click [here](https://github.com/nlovell/Fox-Sox/archive/master.zip)), then add it to your ``.minecraft\resources`` folder.  
@@ -10,8 +14,8 @@ If you do have Optifine installed, the foxes will spawn with random sock texture
 
 ## Sox list
 There's a bunch of fun sock designs in this addon pack.
-1) Default fox with purple and black socks
-2) Green and black
+1) Socked Fox
+2) A sockless Friend
 3) Blue and black
 4) Dark purple and black
 5) Trans rights!
@@ -24,3 +28,4 @@ There's a bunch of fun sock designs in this addon pack.
 12) Bisexual pride!
 13) Pansexual pride!
 14) Flag of Andorra
+15) Green and black
