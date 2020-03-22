@@ -4,8 +4,9 @@ Compatible with every version that has foxes, so far.
 
 ## How to use
 
-Download this repository as a .zip, then add it to your ``.minecraft\resources`` folder.
-If you don't have Optifine installed, feel free to unzip this pack, then move the desired fox/fox-sleep images out of ``foxsox\assets\minecraft\optifine\random\entity\fox`` and into ``foxsox\assets\minecraft\textures\entity\fox``
+Download this repository as a .zip (click [here](https://github.com/nlovell/Fox-Sox/archive/master.zip)), then add it to your ``.minecraft\resources`` folder.  
+If you don't have Optifine installed, feel free to unzip this pack, then move the desired fox/fox-sleep images out of ``foxsox\assets\minecraft\optifine\random\entity\fox`` and into ``foxsox\assets\minecraft\textures\entity\fox``.
+If you do have Optifine installed, the foxes will spawn with random sock textures. Neat, huh?
 
 ## Sox list
 There's a bunch of fun sock designs in this addon pack.
