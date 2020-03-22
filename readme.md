@@ -1,9 +1,11 @@
 # Fox Sox
 Have you ever wished your Minecraft Foxes had better footwear? Do you think your orange fluffy friends need to stay warm in the virtual world of Minecraft? Are you a degenerate who wants to see cuboid canidae with colourful [Programming Socks](https://i.kym-cdn.com/photos/images/newsfeed/001/584/957/ea7.png)?
 
+![alt text](banner.png "Lots of foxes, all wearing soxes. Cute.")
+
 Well, this vanilla-style texture addon does exactly what it says on the tin - it adds Soxes to your Foxes.
 
-Version: 0.1.3
+Version: 0.1.4
 Author: Alan Lovell
 Source: nlovell.dev/Fox-Sox
 
