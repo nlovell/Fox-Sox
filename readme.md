@@ -3,7 +3,7 @@ Have you ever wished your Minecraft Foxes had better footwear? Do you think your
 
 Well, this vanilla-style texture addon does exactly what it says on the tin - it adds Soxes to your Foxes.
 
-Version: 0.1
+Version: 0.1.3
 Author: Alan Lovell
 Source: nlovell.dev/Fox-Sox
 
@@ -34,3 +34,15 @@ There's a bunch of fun sock designs in this addon pack.
 14) Flag of Andorra
 15) Green and black
 16) [Programming Socks](https://i.kym-cdn.com/photos/images/newsfeed/001/584/957/ea7.png)
+
+## Q and A
+
+`What do the version numbers mean?`
+Not a lot. Probably me being picky about stuff, or adding new socks.
+
+ `Why didn't you cover their toe beans?`
+ Jesus christ I'm not putting that much effort into what ammounts to a visual shitpost.
+ 
+ `Okay but seriously their feets look cold :(`
+ Yeah, but they need to have their claws out to be able to murder zombies and stuff. Grip. Efficiency. I don't know?
+ If you want to fix it, submit a pull request on the Github page.
